@@ -1,0 +1,43 @@
+ 
+****************************************
+Report : area
+Design : top
+Version: R-2020.09
+Date   : Sun Sep 10 20:09:14 2023
+****************************************
+
+Library(s) Used:
+
+    slow (File: /usr/cad/CBDK/CBDK_IC_Contest_v2.1/SynopsysDC/db/slow.db)
+
+Number of ports:                          136
+Number of nets:                          1580
+Number of cells:                         1402
+Number of combinational cells:           1225
+Number of sequential cells:               176
+Number of macros/black boxes:               0
+Number of buf/inv:                        272
+Number of references:                     139
+
+Combinational area:              12217.885171
+Buf/Inv area:                     2676.799804
+Noncombinational area:            6093.665932
+Macro/Black Box area:                0.000000
+Net Interconnect area:          162820.828644
+
+Total cell area:                 18311.551103
+Total area:                     181132.379747
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area            Local cell area
+                                  -------------------  ----------------------------- 
+Hierarchical cell                 Absolute    Percent  Combi-      Noncombi-  Black-
+                                  Total       Total    national    national   boxes   Design
+--------------------------------  ----------  -------  ----------  ---------  ------  ---------
+top                               18311.5511    100.0  12217.8852  6093.6659  0.0000  top
+--------------------------------  ----------  -------  ----------  ---------  ------  ---------
+Total                                                  12217.8852  6093.6659  0.0000
+
+1
